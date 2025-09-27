@@ -21,10 +21,3 @@ The analysis included:
 * **Language:** Python
 * **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
 * **Deliverable:** Jupyter Notebook (`.ipynb` file)
-
-### Details
-| **Internship ID** | `[INTERNSHIP_17546440516895be537820f]` |
-| **Project Notebook** | `Airbnb hotel booking analysis.ipynb` |
-| **Repository URL** | `[Add the working url of your github repository]` |
-
----
